@@ -1,0 +1,4 @@
+DISTANCE = 2
+STRATEGY = SCAN
+TOTAL_STATION = 10
+# scan serve

@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/classic">
+        <file>godskin/classic/bus.png</file>
+        <file>godskin/classic/background.png</file>
+        <file>godskin/classic/setting.png</file>
+    </qresource>
+    <qresource prefix="/setting">
+        <file>godskin/setting_background.png</file>
+        <file>godskin/logo.ico</file>
+    </qresource>
+    <qresource prefix="/darkness">
+        <file>godskin/darkness/background.png</file>
+        <file>godskin/darkness/bus.png</file>
+        <file>godskin/darkness/setting.png</file>
+    </qresource>
+    <qresource prefix="/green">
+        <file>godskin/green/background.png</file>
+        <file>godskin/green/bus.png</file>
+        <file>godskin/green/setting.png</file>
+    </qresource>
+    <qresource prefix="/blue">
+        <file>godskin/blue/background.png</file>
+        <file>godskin/blue/bus.png</file>
+        <file>godskin/blue/setting.png</file>
+    </qresource>
+    <qresource prefix="/pink">
+        <file>godskin/pink/background.png</file>
+        <file>godskin/pink/bus.png</file>
+        <file>godskin/pink/setting.png</file>
+    </qresource>
+    <qresource prefix="/year">
+        <file>godskin/year/background.png</file>
+        <file>godskin/year/bus.png</file>
+        <file>godskin/year/setting.png</file>
+    </qresource>
+    <qresource prefix="/cyberpunk">
+        <file>godskin/cyberpunk/background.png</file>
+        <file>godskin/cyberpunk/bus.png</file>
+        <file>godskin/cyberpunk/setting.png</file>
+    </qresource>
+    <qresource prefix="/tuwei">
+        <file>godskin/tuwei/background.png</file>
+        <file>godskin/tuwei/bus.png</file>
+        <file>godskin/tuwei/setting.png</file>
+    </qresource>
+    <qresource prefix="/eldenring">
+        <file>godskin/eldenring/background.png</file>
+        <file>godskin/eldenring/bus.png</file>
+        <file>godskin/eldenring/setting.png</file>
+    </qresource>
+    <qresource prefix="/genshin">
+        <file>godskin/genshin/background.png</file>
+        <file>godskin/genshin/bus.png</file>
+        <file>godskin/genshin/setting.png</file>
+    </qresource>
+    <qresource prefix="/genshit">
+        <file>godskin/genshit/background.png</file>
+        <file>godskin/genshit/bus.png</file>
+        <file>godskin/genshit/setting.png</file>
+    </qresource>
+</RCC>

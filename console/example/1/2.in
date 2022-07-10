@@ -1,0 +1,37 @@
+clock
+clockwise 2
+clock
+target 10
+clockwise 10
+counterclockwise 10
+clock
+counterclockwise 10
+clock
+clock
+clockwise 3
+counterclockwise 3
+clock
+clock
+target 9
+clock
+clock
+clock
+target 9
+clock
+clock
+counterclockwise 9
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clockwise 9
+clock
+clock
+clock
+clock
+end
