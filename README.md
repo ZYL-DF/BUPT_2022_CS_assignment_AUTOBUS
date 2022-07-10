@@ -11,9 +11,9 @@
 
 ## 预览
 
-![截图](https://github.com/ZYL-DF/Pic_res/blob/main/2.png?raw=true)
-![截图](https://github.com/ZYL-DF/Pic_res/blob/main/1.png?raw=true)
-![截图](https://github.com/ZYL-DF/Pic_res/blob/main/3.png?raw=true)
+![截图](https://github.com/ZYL-DF/Pic_res/raw/main/2.png?raw=true)
+![截图](https://github.com/ZYL-DF/Pic_res/raw/main/1.png?raw=true)
+![截图](https://github.com/ZYL-DF/Pic_res/raw/main/3.png?raw=true)
 
 &emsp;
 ***
